@@ -1,0 +1,11 @@
+{
+    students: [
+        {id: 1, no: '001' , name: 'swyma1', sex:'male',email:'summerdir@gmail.com',phone:'15820707083'},
+        {id: 2, no: '002' , name: 'swyma2', sex:'female',email:'summerdir@qq.com',phone:'15820707085'},
+        {id: 3, no: '003' , name: 'swyma3', sex:'female',email:'summerdir@163.com',phone:'15820707086'},
+        {id: 4, no: '004' , name: 'swyma4', sex:'male',email:'summerdir@sina.com.cn',phone:'15820707087'},
+        {id: 5, no: '005' , name: 'swyma5', sex:'male',email:'summerdir@126.com',phone:'15820707088'},
+        {id: 6, no: '006' , name: 'swyma6', sex:'female',email:'summerdir@sohu.com.cn',phone:'15820707089'},
+        {id: 7, no: '007' , name: 'swyma7', sex:'male',email:'summerdir@foxmail.com',phone:'15820707081'}
+    ]
+}
